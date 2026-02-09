@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+label,calories
+Appam,124
+Biryani,350
+Chapati,75
+Dosa,145
+Idli,58
+Pongal,225
+Poori,105
+Vada,101
+White Rice,200
+=======
+label,calories
+Dosa,145
+Idli,58
+ Biryani,350
+Chapati,75
+White Rice,200
+Poori,105
+Pongal,225
+Vada,101
+Appam,124
+Porotta,190
+>>>>>>> 6af71030a26e5419da41f18b163542f4d2dff79a

@@ -1,0 +1,11 @@
+Class,Precision,Recall,F1-score,Support
+Appam,1.00,1.00,1.00,7
+Biryani,0.88,1.00,0.93,7
+Chapati,0.75,0.75,0.75,8
+Dosa,0.80,1.00,0.89,8
+Idli,1.00,1.00,1.00,8
+Pongal,1.00,0.71,0.83,7
+Poori,1.00,0.62,0.77,8
+Porotta,0.78,1.00,0.88,7
+Vada,1.00,1.00,1.00,7
+White Rice,1.00,1.00,1.00,8

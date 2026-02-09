@@ -1,0 +1,25 @@
+# ML Models
+*.h5
+*.pt
+*.onnx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Training data
+dataset/
+data/
+images/
+
+# Logs
+*.log
+tensorboard_logs/
+
+# OS files
+.DS_Store
+Thumbs.db
